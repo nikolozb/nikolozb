@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- HTML / CSS
 - TypeScript / JavaScript (ES6+)
 - ReactJS / Redux / Redux Toolkit
 - ESLint / Prettier
