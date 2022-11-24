@@ -3,9 +3,9 @@
 ### My stack: 
 - Javascript
 - HTML/CSS
-- Sass/Bootstrap/BEM
+- Sass/Less/BEM
 - ReactJS
-- reactstrap/Ant Design/react-router-dom
+- reactstrap/Chakra UI/react-router-dom
 - Firebase
 - NodeJS/ExpressJS
 - Git/Github/Gitlab
